@@ -59,7 +59,7 @@ Video tips (delivered monthly) can also be viewed through the app. Likewise, the
 To extend, update, or contribute to this project, clone the repository to your local machine and install the necessary dependencies (for final deployment, you will also need to install dev dependencies):
 
 ````
-git clone https://github.com/joebochill/swingessentialsapp.git
+git clone https://github.com/CoraCote/swingessentialsapp.git
 cd swingessentialsapp
 pnpm install
 ````
